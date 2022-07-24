@@ -1,0 +1,21 @@
+.tip {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: chocolate;
+  margin-right: 20px;
+}
+.arm {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: greenyellow;
+  margin-right: 20px;
+}
+.due {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: gold;
+  margin-right: 20px;
+}
